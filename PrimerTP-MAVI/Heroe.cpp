@@ -9,6 +9,11 @@ Heroe::Heroe() {
 	}
 }
 
+// Destructor
+Heroe::~Heroe() {
+	cout << "El héroe ha sido destruido." << endl;
+}
+
 void Heroe::cambiarCoordenadas(int x, int y) {
 	this->x = x;
 	this->y = y;

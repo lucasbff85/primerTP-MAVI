@@ -12,6 +12,7 @@ protected:
 	int contadorPrincesasRescatadas = 0;
 public:
 	Heroe();
+	~Heroe();
 	void cambiarCoordenadas(int x, int y);
 	void recibirDanio(int puntos);
 	void recibirCura(int puntos);
