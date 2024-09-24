@@ -24,6 +24,7 @@
     <ProjectGuid>{1ec5ee66-50a2-43ef-816f-d0d898e80868}</ProjectGuid>
     <RootNamespace>PrimerTPMAVI</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Ejercicio5-Heroe</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
